@@ -1,0 +1,13 @@
+.item-center-paginacao{
+    background-color: rgb(232, 232, 232);
+    margin: 0 2px!important;
+    padding: 0;
+    border: none !important;
+    background-color: rgb(249, 247, 247);
+}
+
+.pagina{
+    background-color: rgb(0, 87, 124);
+    color: white;
+
+}
